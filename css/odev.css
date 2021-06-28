@@ -1,0 +1,33 @@
+
+.sagadaya {
+    text-align: left;
+    float: left;
+}
+.soladaya{
+    text-align: right;
+}
+.logo{
+    margin: auto;
+    padding: 10% 40%;
+    
+}
+.round3 {
+    border: 1.5px solid gainsboro;
+    border-radius: 30px;
+    width: 60%;
+    margin: auto;
+    padding: 0px;
+}
+.button1 {
+    padding:auto;
+    margin: 0px 10px;
+    border-radius: 30px;
+}
+.button2 {
+    width: 88%;
+    height: 90%;
+}
+.none {
+    
+    border-style: none;
+}
